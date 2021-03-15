@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saskia1001 (Saskia Christ)
+- 👋 Hi, I’m Saskia @saskia1001 from Berlin, Germany
 - 👀 I’m interested in data science, machine learning, deep learning
 - 🌱 I’m currently learning object detection
 - 💞️ I’m looking to collaborate on object detection projects
